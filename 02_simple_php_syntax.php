@@ -15,7 +15,7 @@ echo $pet_peeve . '<br>';
 
 // Task 2
 
-// $hobbies = 'Sleeping';
+// $hobbies = 'Sleeping, Cubing, Watching Anime';
 // $pet_peeve = 'Loud Noise';
 
 // Task 3
@@ -33,7 +33,9 @@ echo HOBBIES . '<br>';
 echo PET_PEEVE . '<br>';
 
 // Task 4
+
 var_dump(NAME, AGE, ADDRESS, HOBBIES, PET_PEEVE);
+
 // Task 5
 
 /*
