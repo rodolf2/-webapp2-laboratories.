@@ -34,7 +34,9 @@ echo PET_PEEVE . '<br>';
 
 // Task 4
 
+echo '<pre>';
 var_dump(NAME, AGE, ADDRESS, HOBBIES, PET_PEEVE);
+echo '</pre>';
 
 // Task 5
 
