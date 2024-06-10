@@ -1,7 +1,7 @@
 <?php
 
 $hostname = 'localhost';
-$db = 'webapp2_activity';
+$db = 'webapp2-db';
 $user = 'root'; 
 $password = ''; 
 
